@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41bae19d-27f2-493f-b117-c55a1227778d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/easynotes/EasyNotesApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/easynotes/controller/NoteController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/easynotes/exception/ResourceNotFoundException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/easynotes/model/Note.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/easynotes/repository/NoteRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/hello.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/example/easynotes/EasyNotesApplicationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/com.example/easy-notes/pom.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/com.example/easy-notes/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/example/easynotes/EasyNotesApplication.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/example/easynotes/controller/NoteController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/example/easynotes/exception/ResourceNotFoundException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/example/easynotes/model/Note.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/example/easynotes/repository/NoteRepository.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/hello.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/static/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/example/easynotes/EasyNotesApplicationTests.class" />
-    </list>
+    <list default="true" id="41bae19d-27f2-493f-b117-c55a1227778d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,8 +45,8 @@
       <file leaf-file-name="NoteController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/easynotes/controller/NoteController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+            <state relative-caret-position="294">
+              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -346,12 +314,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529174318663</updated>
-      <workItem from="1529174320869" duration="1395000" />
+      <workItem from="1529174320869" duration="1431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1395000" />
+    <option name="totallyTimeSpent" value="1431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -426,8 +394,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/easynotes/controller/NoteController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        <state relative-caret-position="294">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
           <folding />
         </state>
       </provider>
